@@ -1,6 +1,6 @@
 python-http-client
 charset_normalizer
-pyfontstyle
+pylibfont
 2captcha-python
 beautifulsoup4
 pyinstaller
